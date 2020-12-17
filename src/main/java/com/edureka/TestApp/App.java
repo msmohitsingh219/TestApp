@@ -14,7 +14,7 @@ public class App
     public static void main( String[] args ) throws Exception
     {
 
-        System.setProperty("webdriver.gecko.driver","/home/edureka/Downloads/geckodriver"); 
+        System.setProperty("webdriver.gecko.driver","/home/msmohitsingh219/Downloads/geckodriver"); 
       
         System.out.println("Hi, Welcome to Edureka's session on Selenium WebDriver by Prashant Beniwal"); 
       
